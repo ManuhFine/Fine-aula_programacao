@@ -1,3 +1,9 @@
+/* Exercicio Struct:
+# Faça um programa para digitar nome e idade
+# Faça o programa mostrar nome e idade descrito e se a pessoa é ou não maior de idade
+*/
+
+
 #include <iostream>
 #include <windows.h>
 #include <cstdlib>
