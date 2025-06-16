@@ -1,5 +1,6 @@
 //Para lembrar...
 //Crie variaveis, onde cada uma, faça uma operação matematica com os valores digitados.
+//Opcional = Fazer o usuario digitar valores diferentes para cada variavel.
 
 #include <stdio.h> //Fornece funções para entrada e saida de dados.
 #include <stdlib.h> //Fornece funções de uso geral, especialmente relacionadas a: gerenciamento de memoria, conversão de tipos, controle de processos.
@@ -33,6 +34,9 @@ void main() {
 
 	//Multiplicação
 	printf("\n A multiplicacao de %d e %d = %d",a, b, a * b);
+	
+	//Média dos valores
+	printf("\n A média de %d e %d = %d",a, b, (a + b) / 2);
 
 	//Pausa o programa após executar
 	system("pause");
