@@ -7,7 +7,7 @@ Aqui você vai encontrar práticas em lógica, estruturas de controle, funções
 
 ## 📚 Conteúdo
 
-✅ Linguagem: C++, C#, HTML, PHP, CSS. 
+✅ Linguagem: C++, C, HTML, PHP, CSS. 
 
 ✅ IDE usada: Visual Studio Code, Embarcadero, CodeBlocks.
 
