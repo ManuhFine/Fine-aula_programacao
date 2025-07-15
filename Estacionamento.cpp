@@ -1,3 +1,9 @@
+/* Exercicio Estacionamento:
+# Faça um programa de check in e check out do estacionamento
+# O programa precisa gerar um automovel e uma placa aleatória
+# Faça um mini menu com "Registro, quantidade de vagas"
+*/
+
 #include <iostream>
 #include <cstdlib>
 #include <string>
