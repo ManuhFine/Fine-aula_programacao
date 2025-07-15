@@ -1,7 +1,7 @@
-/* Exercicio Estacionamento:
-# Faça um programa de check in e check out do estacionamento
-# O programa precisa gerar um automovel e uma placa aleatória
-# Faça um mini menu com "Registro, quantidade de vagas"
+/* Exercicio Calculo IMC:
+# Faça um programa que calcule o IMC.
+# O programa precisa receber dados para fazer uma lista (como nome, altura, peso).
+# O programa precisa calcular o IMC da pessoa e dizer o resultado de acordo com a tabela do IMC.
 */
 
 #include <iostream>
